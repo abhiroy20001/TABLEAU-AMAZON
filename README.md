@@ -17,3 +17,7 @@ b) Loading Excel dataset in TABLEAU and carried out the key analysis.
 c) Setting the color scale on highest and lowest sorted bars
 
 d) Publishing on TABLEAU public @ABHILASH ROY
+
+TABLEAU LINK :
+
+https://public.tableau.com/app/profile/abhi.roy8415/viz/AMAZON_17118095950250/AMAZON
